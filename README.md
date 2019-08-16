@@ -1,5 +1,5 @@
 # Lights-Out
-###Try to turn off all the lights by clicking on the circles. Adjacent spaces will be toggled with each click.
+### Try to turn off all the lights by clicking on the circles. Adjacent spaces will be toggled with each click.
 
 ![](Lights-Out-Demo.gif)
 
