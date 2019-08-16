@@ -1,0 +1,110 @@
+body {
+	background-color: black;
+	margin: 0;
+	font-family: "Montserrat", "Avenir";
+}
+
+button {
+	border: none;
+	background: none;
+	text-transform: uppercase;
+	height: 100%;
+	font-weight: 700;
+	color: white;
+	letter-spacing: 1px;
+	font-size: inherit;
+	transition: all 0.3s;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	outline: none;
+}
+
+button:hover {
+	color: yellow;
+	background: black;
+}
+
+#container {
+	margin: 20px auto;
+	max-width: 600px;
+}
+
+.easy {
+	width: 30.33%;
+	padding-bottom: 30.33%;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	line-height: 1.1;
+	background-color: #484a4c;
+	margin: 0;
+	font-weight: normal;
+	text-transform: uppercase;
+	padding-top: 10px;
+	font-size: 3em;
+}
+
+h3 {
+	color: white;
+	text-align: center;
+	line-height: 1.1;
+	background-color: #484a4c;
+	margin: 0;
+	font-weight: normal;
+	padding-bottom: 10px;
+}
+
+.hard {
+	width: 17%;
+	padding-bottom: 17%;
+}
+
+.lbutton {
+	background: #484a4c;
+	float: left;
+	margin: 1.5%;
+	border-radius: 50%;
+	transition: background 0.6s;
+	-webkit-transition: background 0.6s;
+	-moz-transition: background 0.6s;
+}
+
+#message {
+	width: 280px;
+	display: inline-block;
+	font-weight: 700;
+	color: yellow;
+	padding: 0;
+}
+
+.normal {
+	width: 22%;
+	padding-bottom: 22%;
+}
+
+.on {
+	background: yellow;
+}
+
+#reset {
+	margin-left: 100px;
+}
+
+.selected {
+	background: black;
+	color: yellow;
+}
+
+span {
+  margin-left: 3px;
+  margin-right: 2px;
+ 	color: yellow;
+}
+
+#stripe {
+	background-color: darkgray;
+	height: 30px;
+	text-align: center;
+}
