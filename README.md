@@ -3,4 +3,4 @@
 
 ![](Lights-Out-Demo.gif)
 
-I created this website to study for an upcoming exam. I also used this as a challenge for myself to see if I could build a Javascript-based browser game using what I had learned in a one-semester course.
+I created this webpage to study for an upcoming exam. I also used it as a challenge for myself to see if I could build an HTML/Javascript-based browser game using what I had learned in a one-semester course.
